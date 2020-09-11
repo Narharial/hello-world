@@ -1,6 +1,6 @@
 # hello-world testi numero 3 testi numero 4
 
-Heipä hei!
+Heipä hei! githubissa tehty konfliktimuutos
 
 Tähän piti kirjoittaa jotakin itsestään, no minä olen olemassa. Mitä jos en olekkaan olemassa? Muutos osa 2
 
